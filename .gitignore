@@ -1,0 +1,15 @@
+# PlatformIO / Arduino
+.pio/
+.pioenvs/
+.vscode/.browse.VC.db*
+.vscode/c_cpp_properties.json
+
+# Midlertidige/logg/artefakter
+**/*.csv
+**/*.bin
+**/*.elf
+**/*.map
+**/*.hex
+**/*.log
+**/*.zip
+.DS_Store
